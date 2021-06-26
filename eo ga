@@ -1,0 +1,24 @@
+<div class="panel-tips dashboard-tips hide" data-aos="fade-left">
+<button type="button" class="close" data-toggle="modal" title="Close tips and tricks" data-target="#tipsClose">×</button>
+<h5 class="ml-0">Tips & Tricks</h5>
+<p>Here you can see with a quick snap a complete overview of your business and team progress.</p>
+<a class="m-0 tipsaccstats aFake">Account statistics</a>
+<ul>
+<li>This chart shows the history of company transactions.</li>
+<li>Toggle different type of statistics</li>
+<li>You can switch between different = (weekly, monthly, yearly). </li>
+</ul>
+<a class="m-0 tipscal aFake">Calendar organization</a>
+<ul>
+<li>view your invoice creation dates</li>
+<li>view your invoice due dates</li>
+<li>view your campaigns dates</li>
+</ul>
+<a class="m-0 tipstickets aFake">Tickets</a>
+<ul>
+<li>Create a new ticket here <a href="#" class="btn btn-tips-tickets"><i class="bx bx-conversation"></i></a></li>
+<li>View your active tickets</li>
+</ul>
+<a class="m-0 tipsdropbox aFake">Invoice dropbox</a>
+<p>Keep your invoice, outvoices, and expenses all in one place. Drop them <a class="tipsdropbox aFake">here</a>. You can fill in data on the <a href="/bookkeep/upload" target="_blank">upload draft page</a> whenever you want so that system can calculate your actual company performance.</p>
+</div>
